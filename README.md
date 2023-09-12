@@ -362,7 +362,7 @@ Will be presented as the following DID document:
       id: '#atproto',
       type: 'EcdsaSecp256r1VerificationKey2019',
       controller: 'did:plc:7iza6de2dwap2sbkpav7c6c6',
-      publicKeyMultibase: 'zSSa7w8s5aApu6td45gWTAAFkqCnaWY6ZsJ8DpyzDdYmVy4fARKqbn5F1UYBUMeVvYTBsoSoLvZnPdjd3pVHbmAHP'
+      publicKeyMultibase: 'z4oJ8ekJXFNZSZQACfyPVuj5RPByc9XDvNzipbAgc5gkWVrhKhEJeXfMW5CXV4CdR5t5bbv6BHATqn51C9dxGHFYQb2b3'
     }
   ],
   service: [
